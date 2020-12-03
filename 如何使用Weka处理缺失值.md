@@ -21,4 +21,4 @@
 1. 打开Weka Explorer
 2. 加载皮马印第安人糖尿病发病数据集
 3. 点击“Choose”按钮并从Filter中选择NumericalCleaner，它在unsupervized.attribute.NumericalCleaner
-![图标](C:\LiuYingDuo\learning_easy\photo\Weka-Select-NumericCleaner-Data-Filter.png)
+![图标](./photo/Weka-Select-NumericCleaner-Data-Filter.png)
