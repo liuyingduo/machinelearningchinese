@@ -21,8 +21,11 @@
 1. 打开Weka Explorer
 2. 加载皮马印第安人糖尿病发病数据集*diabetes.arff*  
 3. 在Filter选项卡下点击“Choose”按钮并选择NumericalCleaner，它在unsupervized.attribute.NumericalCleaner
-![图标](./photo/Weka-Select-NumericCleaner-Data-Filter.png)  
+
+![图标](./photo/Weka-Select-NumericCleaner-Data-Filter.png)
+
 4. 点击设置的过滤器进行配置
+
 ![图标](./photo/filter详细设置.png)
 
 5. 设置attributeIndicies为6, 这表示当前将filter应用于mass属性所在的列,因为此时mass属性的索引是6。
