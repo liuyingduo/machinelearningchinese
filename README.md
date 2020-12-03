@@ -1,1 +1,1 @@
-# machinelearingchinese
+# machinelearningchinese
